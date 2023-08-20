@@ -7,6 +7,7 @@ Keylogger Process :
 
 2. Create a way that it cant be accessed without a passcode, and as a new user creates one
     uses the set_passwd() and check_passwd() functions
+      - once the password is created its stored in a new file / that file is accessed when opening the program again so dont delete it
 
 3. This version runs over the entire computer not just in terminal but if you would like to deploy convert it into an exe file and remove all the pass requirements
 
