@@ -1,9 +1,4 @@
 
-#log_dir = r"C:/users/username/desktop/"
-C:\\Users\\ibuku\\OneDrive\\Desktop\\Documents\\CyberProjects\\Keylogger\\
-#logging.basicConfig(filename = (log_dir + "keyLog.txt"), level=logging.DEBUG, format='%(asctime)s: %(message)s')
-
-
 Keylogger Process : 
 
 
